@@ -1,0 +1,63 @@
+1658552788972	geckodriver	INFO	Listening on 127.0.0.1:49470
+1658552792440	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LiLang\\AppData\\Local\\Temp\\rust_mozprofileavwPvJ"
+1658552792708	Marionette	INFO	Marionette enabled
+1658552792712	Marionette	INFO	Listening on port 49486
+Read port: 49486
+1658552792901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/byr1ecf6ifoqiu9ejc679y5r8, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/byr1ecf6ifoqiu9ejc679y5r8, line 18945: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/edab2k57huv3d01ued5tlp4gm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dze7ujjyi7wluhr91whkq4xj2, line 2288: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/byr1ecf6ifoqiu9ejc679y5r8, line 18945: unreachable code after return statement
+1658552806659	Marionette	INFO	Stopped listening on port 49486
+1658552881110	geckodriver	INFO	Listening on 127.0.0.1:49696
+1658552884537	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LiLang\\AppData\\Local\\Temp\\rust_mozprofileyXYA26"
+1658552884775	Marionette	INFO	Marionette enabled
+1658552884779	Marionette	INFO	Listening on port 49711
+Read port: 49711
+1658552884961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/byr1ecf6ifoqiu9ejc679y5r8, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/byr1ecf6ifoqiu9ejc679y5r8, line 18945: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/edab2k57huv3d01ued5tlp4gm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dze7ujjyi7wluhr91whkq4xj2, line 2288: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/byr1ecf6ifoqiu9ejc679y5r8, line 18945: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cgsp4145i9px4tmpsueku5ief, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6puk8p41urdn4bwphamblovxj, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7xxsdh9x0kmscbugcppjy1pu0, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/byr1ecf6ifoqiu9ejc679y5r8, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/byr1ecf6ifoqiu9ejc679y5r8, line 18945: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/edab2k57huv3d01ued5tlp4gm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dze7ujjyi7wluhr91whkq4xj2, line 2288: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/edab2k57huv3d01ued5tlp4gm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dze7ujjyi7wluhr91whkq4xj2, line 2288: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cgsp4145i9px4tmpsueku5ief, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6puk8p41urdn4bwphamblovxj, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7xxsdh9x0kmscbugcppjy1pu0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/byr1ecf6ifoqiu9ejc679y5r8, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/byr1ecf6ifoqiu9ejc679y5r8, line 18945: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7xxsdh9x0kmscbugcppjy1pu0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dze7ujjyi7wluhr91whkq4xj2, line 2288: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7xxsdh9x0kmscbugcppjy1pu0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/edab2k57huv3d01ued5tlp4gm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cgsp4145i9px4tmpsueku5ief, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6puk8p41urdn4bwphamblovxj, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2oupstisxx5fepp7fn1xugn3l, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4fg3estz91l7ugc2jyy4nf88h, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/czse3wmqrhd6ybjz33rkqif2m, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/byr1ecf6ifoqiu9ejc679y5r8, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/byr1ecf6ifoqiu9ejc679y5r8, line 18945: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7xxsdh9x0kmscbugcppjy1pu0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dze7ujjyi7wluhr91whkq4xj2, line 2288: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7xxsdh9x0kmscbugcppjy1pu0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/edab2k57huv3d01ued5tlp4gm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cgsp4145i9px4tmpsueku5ief, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6puk8p41urdn4bwphamblovxj, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2oupstisxx5fepp7fn1xugn3l, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4fg3estz91l7ugc2jyy4nf88h, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2oupstisxx5fepp7fn1xugn3l, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4fg3estz91l7ugc2jyy4nf88h, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2oupstisxx5fepp7fn1xugn3l, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4fg3estz91l7ugc2jyy4nf88h, line 39: unreachable code after return statement
+1658552994576	Marionette	INFO	Stopped listening on port 49711
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
